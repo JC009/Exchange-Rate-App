@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kursy</string>
+    <string name="title_activity_exchange_list">ExchangeList</string>
+</resources>
